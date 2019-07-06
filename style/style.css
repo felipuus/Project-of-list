@@ -15,3 +15,25 @@
       font-size: 30px;
     
   }
+  .padd{
+      padding: 10px 31px 10px;
+      font-size: 30px;
+  }
+  li{
+      list-style-type: circle;
+      border-bottom: solid 2px rgb(224, 224, 224);
+      
+  }
+
+  .add-lista{
+      display: flex;
+      position: fixed;
+      top: 96%;
+      font-size: 30px;
+  }
+  #visor{
+    width: 96vh;
+    height: 35px;
+}
+  
+
