@@ -1,6 +1,6 @@
 var lista = document.querySelector('ul');
 var input = document.querySelector('#visor');
-var botao = document.querySelector('#btn');
+var botao = document.querySelector('#button');
 
 botao.addEventListener("click", addLista);
 
